@@ -18,3 +18,5 @@ public class LinkedListDemo {
         head.next.next=new Node(90);
     }
 }
+
+hi sahbaz
